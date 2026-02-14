@@ -3,8 +3,6 @@ owner: isharmla233 # Your GitHub organization or username, where this repository
 repo: upptime-github # The name of this repository
 
 sites:
-  - name: 白鱼小栈
-    url: https://www.baiyuyu.com
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
